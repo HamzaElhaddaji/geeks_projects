@@ -8,7 +8,7 @@ namespace Excercices_XPGold
     {
         static void Main(string[] args)
         {
-            // Exercise 1: Birthday Look-up
+         // Exercise 1: Birthday Look-up
             BirthdayLookup();
 
             // Exercise 2: Birthdays Advanced
@@ -19,11 +19,11 @@ namespace Excercices_XPGold
             int x = int.Parse(Console.ReadLine());
             Console.WriteLine($"The result of the sequence is: {SumSequence(x)}");
 
-            // Exercise 4: Double Dice
+           // Exercise 4: Double Dice
             MainSimulation();
         }
 
-        // Exercise 1: Birthday Look-up
+       // Exercise 1: Birthday Look-up
         static void BirthdayLookup()
         {
             Dictionary<string, string> birthdays = new Dictionary<string, string>
@@ -79,7 +79,7 @@ namespace Excercices_XPGold
                 Console.WriteLine($"Sorry, we don’t have the birthday information for {nameInput}.");
             }
         }
-
+            
         // Exercise 3: Sum Sequence
         static int SumSequence(int x)
         {
