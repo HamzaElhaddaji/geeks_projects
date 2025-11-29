@@ -1,0 +1,15 @@
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\bin\Debug\net10.0\Project02.exe
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\bin\Debug\net10.0\Project02.deps.json
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\bin\Debug\net10.0\Project02.runtimeconfig.json
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\bin\Debug\net10.0\Project02.dll
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\bin\Debug\net10.0\Project02.pdb
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\obj\Debug\net10.0\Project02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\obj\Debug\net10.0\Project02.AssemblyInfoInputs.cache
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\obj\Debug\net10.0\Project02.AssemblyInfo.cs
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\obj\Debug\net10.0\Project02.csproj.CoreCompileInputs.cache
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\obj\Debug\net10.0\Project02.sourcelink.json
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\obj\Debug\net10.0\Project02.dll
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\obj\Debug\net10.0\refint\Project02.dll
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\obj\Debug\net10.0\Project02.pdb
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\obj\Debug\net10.0\Project02.genruntimeconfig.cache
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Project02\obj\Debug\net10.0\ref\Project02.dll
