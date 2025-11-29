@@ -1,0 +1,15 @@
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\bin\Debug\net10.0\Sphere.exe
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\bin\Debug\net10.0\Sphere.deps.json
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\bin\Debug\net10.0\Sphere.runtimeconfig.json
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\bin\Debug\net10.0\Sphere.dll
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\bin\Debug\net10.0\Sphere.pdb
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\obj\Debug\net10.0\Sphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\obj\Debug\net10.0\Sphere.AssemblyInfoInputs.cache
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\obj\Debug\net10.0\Sphere.AssemblyInfo.cs
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\obj\Debug\net10.0\Sphere.csproj.CoreCompileInputs.cache
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\obj\Debug\net10.0\Sphere.sourcelink.json
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\obj\Debug\net10.0\Sphere.dll
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\obj\Debug\net10.0\refint\Sphere.dll
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\obj\Debug\net10.0\Sphere.pdb
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\obj\Debug\net10.0\Sphere.genruntimeconfig.cache
+C:\Users\elhad\OneDrive\Desktop\project\Week_1\Day4\Sphere\obj\Debug\net10.0\ref\Sphere.dll
